@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../find the largest number of array"
+		},
+		{
+			"path": "../repeatString"
+		},
+		{
+			"path": "../truncate the string"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "finders keeper's"
+	}
+}
